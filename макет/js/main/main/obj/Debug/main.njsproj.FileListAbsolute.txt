@@ -1,0 +1,3 @@
+C:\программки\макет\js\main\main\obj\Debug\main.njsproj.AssemblyReference.cache
+C:\программки\макет\js\main\main\obj\Debug\main.njsproj.CoreCompileInputs.cache
+C:\программки\макет\js\main\main\bin\Microsoft.NodejsTools.WebRole.dll
